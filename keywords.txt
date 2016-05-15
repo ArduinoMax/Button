@@ -1,0 +1,9 @@
+Button          KEYWORD1
+
+setCallback     KEYWORD2
+begin           KEYWORD2
+update          KEYWORD2
+digitalRead     KEYWORD2
+
+BUTTON_PRESSED  KEYWORD3
+BUTTON_RELEASED KEYWORD3
